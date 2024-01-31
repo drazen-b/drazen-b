@@ -6,4 +6,3 @@
 Interests:
 - System/DevOps
 - ML
-- MLOps/AIOps
